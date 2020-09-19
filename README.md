@@ -1,6 +1,6 @@
-# animationloginpage
+# Animation Login Page
 
-A new Flutter application.
+Simple animated Login Page UI made in Flutter.
 
 ## Getting Started
 
